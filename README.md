@@ -52,7 +52,7 @@ Newscrape is a Python script that automatically scrapes the latest headline from
 
 - Inside your App settings, go to "Keys and Tokens"
 
-  ![App Settings](images/setting.png)
+  ![App Settings](images/Setting.png)
 
 - Generate the following credentials:
 
