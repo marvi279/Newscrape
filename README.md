@@ -11,6 +11,8 @@ Newscrape is a Python script that automatically scrapes the latest headline from
 
 🕒 Run as a scheduled task (e.g., using cron or Task Scheduler)
 
+![Postl](images/post.png)
+
 ## 🛠️ Tech Stack
 - [Python](https://www.python.org/) 3.10+
   
@@ -52,7 +54,7 @@ Newscrape is a Python script that automatically scrapes the latest headline from
 
 - Inside your App settings, go to "Keys and Tokens"
 
-  ![App Settings](images/setting.png)
+  ![App Settings](images/Setting.png)
 
 - Generate the following credentials:
 
